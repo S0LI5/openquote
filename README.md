@@ -1,4 +1,4 @@
-# OpenQuote ✦
+# OpenQuote 
 
 A lightweight, distraction-free quote generator with beautiful dark-mode design. Get instant inspiration from thousands of quotes, filtered by category.
 
