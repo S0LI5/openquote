@@ -1,0 +1,5 @@
+{
+  "name": "OpenQuote",
+  "description": "A lightweight, fast, and distraction-free quote generator offering instant inspiration with category filtering, favorites management, and offline support.",
+  "requestFramePermissions": []
+}
